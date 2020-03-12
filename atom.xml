@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://guoyongxin98.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-03-12T03:48:15.681Z</updated>
+    <title>guoyongxin</title>
+    <updated>2020-03-12T03:49:54.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://guoyongxin98.github.io"/>
     <link rel="self" href="https://guoyongxin98.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://guoyongxin98.github.io/images/avatar.png</logo>
     <icon>https://guoyongxin98.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, guoyongxin</rights>
+    <entry>
+        <title type="html"><![CDATA[0312测试]]></title>
+        <id>https://guoyongxin98.github.io/post/0312-ce-shi/</id>
+        <link href="https://guoyongxin98.github.io/post/0312-ce-shi/">
+        </link>
+        <updated>2020-03-12T03:49:23.000Z</updated>
+        <content type="html"><![CDATA[<p>测试github</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://guoyongxin98.github.io/post/hello-gridea/</id>
