@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://guoyongxin98.github.io</id>
     <title>guoyongxin</title>
-    <updated>2020-03-12T04:43:41.336Z</updated>
+    <updated>2020-03-21T01:43:34.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://guoyongxin98.github.io"/>
     <link rel="self" href="https://guoyongxin98.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://guoyongxin98.github.io/images/avatar.png</logo>
     <icon>https://guoyongxin98.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, guoyongxin</rights>
+    <entry>
+        <title type="html"><![CDATA[四周周末随笔]]></title>
+        <id>https://guoyongxin98.github.io/post/si-zhou-zhou-mo-sui-bi/</id>
+        <link href="https://guoyongxin98.github.io/post/si-zhou-zhou-mo-sui-bi/">
+        </link>
+        <updated>2020-03-21T01:41:30.000Z</updated>
+        <content type="html"><![CDATA[<p>开始上网课的第四周，本周职场课讲到了执行力，仔细想想，自己的执行力是真的差。不过是时候逼自己一把做出改变了，希望武汉的肺炎疫情早日结束。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[0312测试]]></title>
         <id>https://guoyongxin98.github.io/post/0312-ce-shi/</id>
